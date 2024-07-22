@@ -1,1 +1,1 @@
-# sidra-chain2
+# sidra-chain
